@@ -24,7 +24,7 @@ body {
 .principal {
     background-image: url("./imagem/Background.png");
     background-repeat: no-repeat;
-    background-size; contain;
+    background-size: contain;
 }
 
 .container {
